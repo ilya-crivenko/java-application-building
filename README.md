@@ -407,7 +407,7 @@ git clone --branch master --depth 1 https://github.com/ACCOUNT/java-application-
 - [ ] Daily retrospectives
 
 ## Recordings
-- [26.01](https://us02web.zoom.us/rec/share/yc1wY-O9GH1UQ7KasfexCDx-S5GZeVPskNKHTHE0OSA94bZH9z7bBFoCZTjDTXP5.ynSaVb9f-3CxIL1X)
-- [28.01](https://us02web.zoom.us/rec/share/xxLBVZpa9_H8kKEl_5eYrHW8Ey-IrwAKU7E1hUYaypamCfnUJCyX5mOx-zjTPQ_X.nUgF6xhM_jaO81VT)
-- [02.02](https://us02web.zoom.us/rec/share/8h_Hr3_2qS65iNNrBDnLconoePpjJk4rN8hDfwqy1BpUYOY7EBJBk2QpWDe3x_Qa.tCfEpZXKOWisWYtN)
-- [04.02](https://us02web.zoom.us/rec/share/VbZYvqilMWgOCDIMqEGV-7d6WYCSMwjCKDXcyOvhM-Kr4GIU2we3tOA6jjeULr-J.9PanvaXrnMIUfgt2)
+- [26.01](https://us02web.zoom.us/rec/share/QZ-CtJX1XAG_KHjp66lmI18Ci8zrCwD75_iQ1Ns43UjzPYMQLxf0F-dQBGTAcLVL.5ptZwiEg0N8rTL2e)
+- [28.01](https://us02web.zoom.us/rec/share/dwvYqc5oJU6pF2pIrqKhlFioIhpP6RaCRQ4sIoncmrcU3a58Xo9FdjXrN1Kpm4fN.ecI-ZJ0b9aB_1kJJ)
+- [02.02](https://us02web.zoom.us/rec/share/gTSGi8-kqNnzrDEBihlDrqCkhDiih14DWSrStMzifpGmZtTZPnmzY0GR2YvLswaG.YbGmlXLVbUfSAQIo)
+- [04.02](https://us02web.zoom.us/rec/share/WASWkMkYActD6fNwjJ4Jewel9aUg4As3vBYdIx4Tzk4F-YXaugOqDn858ubC-3wM.KBF64HCyh2RLcCgs)
